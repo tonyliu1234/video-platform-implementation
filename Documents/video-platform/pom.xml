@@ -57,14 +57,7 @@
             <artifactId>java-jwt</artifactId>
             <version>3.18.2</version>
         </dependency>
-
-
-        <dependency>
-                <groupId>org.apache.rocketmq</groupId>
-                <artifactId>rocketmq-client</artifactId>
-                <version>4.9.1</version>
-        </dependencies>
-
+    </dependencies>
     <modules>
         <module>video-platform-api</module>
         <module>video-platform-service</module>
