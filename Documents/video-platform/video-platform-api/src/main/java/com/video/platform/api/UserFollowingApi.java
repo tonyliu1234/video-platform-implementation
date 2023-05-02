@@ -58,6 +58,4 @@ public class UserFollowingApi {
         return new JsonResponse<>(list);
     }
 
-    //test
-
 }
